@@ -22,7 +22,7 @@ A Telegram bot for ordering taxis using Telegram Stars for payments. Users can p
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/taxi-order-bot.git
+   git clone https://github.com/yourusername/dreviaxtaxibot.git
    cd taxi-order-bot
    ```
 
